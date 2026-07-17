@@ -3,12 +3,15 @@
 .odd {
     background-color: rgb(255, 166, 167);
     font-family: Verdana, "DejaVu Sans", sans-serif;
-    font-size: 24px;
 }
 
 #unique {
     color: #0000ff;
     font-size: 36px;
+}
+
+.fs {
+    font-size: 24px;
 }
 
 .green {
